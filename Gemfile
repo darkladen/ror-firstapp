@@ -18,6 +18,7 @@ gem 'sqlite3'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 # Bundle the extra gems:
+gem 'pg'
 # gem 'bj'
 # gem 'nokogiri'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
